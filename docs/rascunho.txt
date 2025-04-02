@@ -1,0 +1,23 @@
+1️⃣ Cabeçalho (Header)
+Nome do profissional
+
+Pequena descrição (ex.: "Desenvolvedor Front-End")
+
+2️⃣ Seção "Sobre Mim"
+Foto de perfil
+
+Pequeno texto de apresentação
+
+Destaques como "Especialista em HTML e CSS", "Criando interfaces modernas"
+
+3️⃣ Seção "Contato e Redes Sociais"
+Ícones clicáveis para LinkedIn, GitHub, Portfólio
+
+Botão "Baixar Currículo"
+
+Informações de e-mail e telefone
+
+4️⃣ Rodapé
+Direitos autorais
+
+Pequena frase de motivação
